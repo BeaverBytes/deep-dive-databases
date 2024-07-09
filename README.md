@@ -1,6 +1,9 @@
 # Deep Dive - Databases
 ## Databases
 ### Time-Series Databases
+#### Gorilla
+**Resources**
+- [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 ### NoSQL Databases
 #### Key-Value Stores
 ##### etcd
@@ -9,7 +12,10 @@
 ### Gorilla's Compaction
 **Resources**
 - [The Morning Paper - Gorilla: A fast, scalable, in-memory time series database](https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/)
+
+**Implementation**
 - [Github by keisku - Gorilla](https://github.com/keisku/gorilla/tree/main)
+- [Github by ghilesmeddour - gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression)
 ### Size-tiered Compaction Strategy (STCS)
 ### Leveled Compaction Strategy (LCS)
 **Resources**
