@@ -29,3 +29,4 @@
 - [Scylla - Raft Consensus Algorithm in ScyllaDB](https://opensource.docs.scylladb.com/stable/architecture/raft.html)
 - [Scylla - Achieving NoSQL Database Consistency with Raft in ScyllaDB](https://www.scylladb.com/tech-talk/achieving-nosql-database-consistency-with-raft-in-scylla/)
 - [etcd - Persistent Storage Files](https://etcd.io/docs/v3.5/learning/persistent-storage-files/)
+- [NATS - JetStream Clustering](https://docs.nats.io/running-a-nats-service/configuration/clustering/jetstream_clustering)
